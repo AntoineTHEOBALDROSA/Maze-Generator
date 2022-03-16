@@ -2,7 +2,7 @@
 
 Make sure to have pygame module installed
 
-It uses the maze depth first search algorithm to create the maze
+It uses the Depth First Search algorithm to create the maze
 
 Controls : 
 - SPACEBAR : draw another maze
