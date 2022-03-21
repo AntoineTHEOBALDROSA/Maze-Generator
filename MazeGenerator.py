@@ -1,4 +1,3 @@
-from dis import dis
 import time
 import pygame
 import random
